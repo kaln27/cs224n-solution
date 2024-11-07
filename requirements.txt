@@ -5,4 +5,8 @@ numpy
 ipykernel
 scikit-learn
 gensim
+tqdm
+docopt
+torch >= 2.1.2
+torchvision
 datasets == 2.18.0
