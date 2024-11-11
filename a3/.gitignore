@@ -1,0 +1,8 @@
+runs/
+outputs/
+model.bin
+model.bin.optim
+_*/
+*/main.aux
+*/main.log
+*/main.out

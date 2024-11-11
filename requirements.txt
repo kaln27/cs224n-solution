@@ -1,4 +1,5 @@
 # python == 3.10
+# Assignment 1
 jupyter
 matplotlib
 numpy
@@ -6,7 +7,14 @@ ipykernel
 scikit-learn
 gensim
 tqdm
+datasets == 2.18.0
+# Assignment 2
 docopt
 torch >= 2.1.2
 torchvision
-datasets == 2.18.0
+# Assignment 3
+nltk
+sentencepiece
+lxml == 5.0.0
+sacrebleu
+tensorboard

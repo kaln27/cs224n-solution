@@ -11,3 +11,6 @@ pip install -r requirements.txt
 
 ## A2
 [main.pdf](./a2/latex/main.pdf)
+
+## A3
+[main.pdf](./a3/latex/main.pdf)
