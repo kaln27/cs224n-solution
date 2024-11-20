@@ -1,0 +1,14 @@
+_*/
+*/main.aux
+*/main.log
+*/main.out
+*/main.bbl
+*/main.blg
+
+# TensorBoard
+expt/
+
+# params and predictions
+*.params
+*.predictions
+london_baseline_accuracy.txt
