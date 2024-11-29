@@ -13,8 +13,18 @@ docopt
 torch >= 2.1.2
 torchvision
 # Assignment 3
+scipy
 nltk
 sentencepiece
 lxml == 5.0.0
 sacrebleu
 tensorboard
+# Assignment 4
+
+# Final Project
+torchaudio
+requests == 2.25.1
+importlib-metadata == 3.7.0
+filelock == 3.0.12
+tokenizers == 0.15
+explainaboard_client == 0.0.7
